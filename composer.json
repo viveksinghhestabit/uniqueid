@@ -1,0 +1,24 @@
+{
+    "name": "viveksingh/uniqueid",
+    "description": "generate unique id",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Viveksingh\\Uniqueid\\": "src/Vivek/"
+        },
+        "files": [
+            "src/Vivek/Password.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Vivek Singh",
+            "email": "viveksinghcse7625@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
