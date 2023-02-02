@@ -11,7 +11,7 @@
             "Viveksingh\\Uniqueid\\": "src/Vivek/"
         },
         "files": [
-            "src/Vivek/Password.php"
+            "src/Vivek/Unique.php"
         ]
     },
     "authors": [
